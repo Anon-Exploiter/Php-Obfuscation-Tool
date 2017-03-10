@@ -3,10 +3,10 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="about" content="For Obfuscating Php Code Given" />
-        <meta name="author" content="An0n 3xPloiTeR, Umar Arfeen Shah" />
-        <meta name="description" content="For Obfuscating the Php Code given" />
-        <meta name="keywords" content="Obfuscator, index.php, Tool" />
-        <meta http-equiv="refresh" content=""><!-- For Refreshing The Page After ____ intervals of time -->
+        	<meta name="author" content="An0n 3xPloiTeR, Umar Arfeen Shah" />
+        	<meta name="description" content="For Obfuscating the Php Code given" />
+        	<meta name="keywords" content="Obfuscator, index.php, Tool" />
+        	<meta http-equiv="refresh" content=""><!-- For Refreshing The Page After ____ intervals of time -->
 		<meta name="revisit-after" content="1 days" />
 		<meta name="language" content="en" />
 		<meta content='general' name='rating' />
