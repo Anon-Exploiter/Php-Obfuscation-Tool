@@ -145,7 +145,7 @@
 						if (!empty($phpcode)) {
 							$option = htmlspecialchars($_POST['option']);
 							$website = "http://".$_SERVER['HTTP_HOST'];
-							$file_location = $_SERVER['REQUEST_URI'];
+							$file_location = htmlspecialchars($_SERVER['REQUEST_URI']);
 							$all_in_one = $website.$file_location;
 							$final = strrev(base64_encode(gzdeflate(gzcompress($phpcode))));
 							$obfuscated_code = $final;
