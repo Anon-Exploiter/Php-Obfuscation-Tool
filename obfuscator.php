@@ -4,10 +4,10 @@
 		<meta charset="UTF-8" />
 		<title>PhP Code Obfuscator By An0n 3xPloiTeR</title>
 		<meta name="about" content="For Obfuscating Php Code Given" />
-        <meta name="author" content="An0n 3xPloiTeR, Umar Arfeen Shah" />
-        <meta name="description" content="For Obfuscating the Php Code given" />
-        <meta name="keywords" content="Obfuscator, index.php, Tool" />
-        <meta http-equiv="refresh" content=""><!-- For Refreshing The Page After ____ intervals of time -->
+		<meta name="author" content="An0n 3xPloiTeR, Umar Arfeen Shah" />
+		<meta name="description" content="For Obfuscating the Php Code given" />
+		<meta name="keywords" content="Obfuscator, index.php, Tool" />
+		<meta http-equiv="refresh" content=""><!-- For Refreshing The Page After ____ intervals of time -->
 		<meta name="revisit-after" content="1 days" />
 		<meta name="language" content="en" />
 		<meta content='general' name='rating' />
@@ -150,16 +150,6 @@
 									echo '
 <textarea rows="9" cols="85">
 <?php
-/*
-		The Given Code Was Successfully Obfuscated By An0n 3xPloiTeR\'s Obfuscator :-)
-						From : '.$all_in_one.'
-									Thanks For Using :D
-							Dont Forget To Like And Share <3
-		Dont Change The Variables Names And If You Change Obfuscated Code Wont Work Properly :-)
-							Changing Author\'s Name Wont Make You The Author :) ^_^
-									    #RespectCoders 
-								!!! ~ By An0n 3xPloiTeR ~ !!!
-*/
 $UeXploiT = "Sy1LzNFQt1dLL7FW10uvKs1Lzs8tKEotLtZIr8rMS8tJLEnVSEosTjUziU9JT\x635PSdUoLikqSi3TUHHMM8iLN64IyMnPDEkN0gQ\x42\x61w\x41\x3d";
 $An0n_3xPloiTeR = "'.$obfuscate_low_level.'";
 eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
@@ -171,16 +161,6 @@ exit;
 								case 'Medium Level Obfuscation':
 									echo '<textarea rows="9" cols="85">
 <?php
-/*
-		The Given Code Was Successfully Obfuscated By An0n 3xPloiTeR\'s Obfuscator :-)
-						From : '.$all_in_one.'
-									Thanks For Using :D
-							Dont Forget To Like And Share <3
-		Dont Change The Variables Names And If You Change Obfuscated Code Wont Work Properly :-)
-							Changing Author\'s Name Wont Make You The Author :) ^_^
-									    #RespectCoders 
-								!!! ~ By An0n 3xPloiTeR ~ !!!
-*/
 $UeXploiT = "Sy1LzNFQt1dLL7FW10uvKs1Lzs8tKEotLtZIr8rMS8tJLElFYiUlFqe\x61m\x63Snp\x43\x62np6RqFJ\x63UF\x61WW\x61\x61g45hnkxRtX\x42OTkZ4\x61k\x42mm\x43gTU\x41";
 $An0n_3xPloiTeR = "'.$obfuscate_medium_level.'";
 eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
@@ -193,16 +173,6 @@ exit;
 								case 'Strong Obfuscation':
 									echo '<textarea rows="9" cols="85">
 <?php
-/*
-		The Given Code Was Successfully Obfuscated By An0n 3xPloiTeR\'s Obfuscator :-)
-						From : '.$all_in_one.'
-									Thanks For Using :D
-							Dont Forget To Like And Share <3
-		Dont Change The Variables Names And If You Change Obfuscated Code Wont Work Properly :-)
-							Changing Author\'s Name Wont Make You The Author :) ^_^
-									    #RespectCoders 
-								!!! ~ By An0n 3xPloiTeR ~ !!!
-*/
 $UeXploiT = "Sy1LzNFQKyzNL7G2V0svsYYw9dKrSvOS83MLilKLizXQOJl5\x61TmJJ\x61lYWUmJx\x61lmJvEpq\x63n5K\x61k\x61xSVFR\x61llGiqOeQZ58\x63YV\x41Tn5mSGpQZpQY\x410\x41";
 $An0n_3xPloiTeR = "'.$obfuscate_high_level.'";
 eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
@@ -214,16 +184,6 @@ exit;
 								case 'High Level Obfuscation':
 									echo '<textarea rows="9" cols="85">
 <?php
-/*
-		The Given Code Was Successfully Obfuscated By An0n 3xPloiTeR\'s Obfuscator :-)
-						From : '.$all_in_one.'
-									Thanks For Using :D
-							Dont Forget To Like And Share <3
-		Dont Change The Variables Names And If You Change Obfuscated Code Wont Work Properly :-)
-							Changing Author\'s Name Wont Make You The Author :) ^_^
-									    #RespectCoders 
-								!!! ~ By An0n 3xPloiTeR ~ !!!
-*/
 $UeXploiT = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUHHMM8iLN64IyMnPDEkN0kQ\x431g\x41\x3d";
 $An0n_3xPloiTeR = "'.$high_level_8.'";
 eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
@@ -240,9 +200,7 @@ exit;
         <div class="footer">
             <font>
             Developed By 
-                <span style="color: red;">
-                    <a href="https://www.google.com/search?q=An0n 3xPloiTeR" target="_blank">An0n 3xPloiTeR</a>
-                </span>
+                <span style="color: red;">An0n 3xPloiTeR</span>
             </font>
         </div>
 	</body>
