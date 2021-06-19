@@ -1,5 +1,7 @@
-# Php-Obfuscation-Tool
-A php based obfuscation tool for obfuscating scripts using gzdeflate, gzcompress and other various methods ¯\_(ツ)_/¯<br>
-You can utilize it by using xampp<br> 
+# PHP Obfuscation
 
-~/.An0n_3xPloiTeR 😁👍
+A PHP based obfuscation tool for obfuscating php code using gzdeflate, gzcompress and other various methods ¯\\_(ツ)_/¯<br>
+
+### Note
+
+Obfuscated code is easily deobfuscated too!
