@@ -4,4 +4,4 @@ A PHP based obfuscation tool for obfuscating php code using gzdeflate, gzcompres
 
 ### Note
 
-Obfuscated code is easily deobfuscated too!
+Obfuscated code is easily deobfuscated too! Wrote this 3-4 years ago just to practice stuff 😛
