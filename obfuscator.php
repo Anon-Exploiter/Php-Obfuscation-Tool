@@ -2,13 +2,12 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title>PhP Code Obfuscator By An0n 3xPloiTeR</title>
+		<title>PhP Code Obfuscator</title>
 		<meta name="about" content="For Obfuscating Php Code Given" />
-		<meta name="author" content="An0n 3xPloiTeR, Umar Arfeen Shah" />
+		<meta name="author" content="An0n 3xPloiTeR" />
 		<meta name="description" content="For Obfuscating the Php Code given" />
 		<meta name="keywords" content="Obfuscator, index.php, Tool" />
-		<meta http-equiv="refresh" content=""><!-- For Refreshing The Page After ____ intervals of time -->
-		<meta name="revisit-after" content="1 days" />
+		<meta http-equiv="refresh" content="">
 		<meta name="language" content="en" />
 		<meta content='general' name='rating' />
 		<meta content='google' name='generator' />
@@ -112,7 +111,7 @@
             </font>
         </div>
 		<div class="subheading">
-			<font>It Obfuscates The Given Php Code</font>
+			<font>It Obfuscates The Given Php Code, yes, just that!</font>
 		</div>
 		<div class="input">
 			<form action="" method="POST">
@@ -150,10 +149,9 @@
 									echo '
 <textarea rows="9" cols="85">
 <?php
-$UeXploiT = "Sy1LzNFQt1dLL7FW10uvKs1Lzs8tKEotLtZIr8rMS8tJLEnVSEosTjUziU9JT\x635PSdUoLikqSi3TUHHMM8iLN64IyMnPDEkN0gQ\x42\x61w\x41\x3d";
-$An0n_3xPloiTeR = "'.$obfuscate_low_level.'";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
-exit;
+$stt1 = "Sy1LzNFQt7dT10uvKs1Lzs8tKEotLtZIr8rMS8tJLEnVSEosTjUziU9JT\x635PSdUoLikqSi3TU\x43kuKTHQ\x42\x41Fr\x41\x41\x3d\x3d";
+$stt0 = "'.$obfuscate_low_level.'";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($stt1))));
 ?></textarea><br><br>
 ';
 								break;
@@ -161,10 +159,9 @@ exit;
 								case 'Medium Level Obfuscation':
 									echo '<textarea rows="9" cols="85">
 <?php
-$UeXploiT = "Sy1LzNFQt1dLL7FW10uvKs1Lzs8tKEotLtZIr8rMS8tJLElFYiUlFqe\x61m\x63Snp\x43\x62np6RqFJ\x63UF\x61WW\x61\x61g45hnkxRtX\x42OTkZ4\x61k\x42mm\x43gTU\x41";
-$An0n_3xPloiTeR = "'.$obfuscate_medium_level.'";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
-exit;
+$stt1 = "Sy1LzNFQt7dT10uvKs1Lzs8tKEotLtZIr8rMS8tJLElFYiUlFqe\x61m\x63Snp\x43\x62np6RqFJ\x63UF\x61WW\x61\x61gUl5QY\x61IK\x42NQ\x41\x3d";
+$stt0 = "'.$obfuscate_medium_level.'";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($stt1))));
 ?></textarea><br><br>
 ';
 
@@ -173,10 +170,9 @@ exit;
 								case 'Strong Obfuscation':
 									echo '<textarea rows="9" cols="85">
 <?php
-$UeXploiT = "Sy1LzNFQKyzNL7G2V0svsYYw9dKrSvOS83MLilKLizXQOJl5\x61TmJJ\x61lYWUmJx\x61lmJvEpq\x63n5K\x61k\x61xSVFR\x61llGiqOeQZ58\x63YV\x41Tn5mSGpQZpQY\x410\x41";
-$An0n_3xPloiTeR = "'.$obfuscate_high_level.'";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
-exit;
+$stt1 = "Sy1LzNFQsrdT0kuvKs1Lzs8tKEotLtZ\x4142TmpeUklqRiZSUlFqe\x61m\x63Snp\x43\x62np6RqFJ\x63UF\x61WW\x61\x61gUl5QY\x61EK\x42NQ\x41\x3d";
+$stt0 = "'.$obfuscate_high_level.'";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($stt1))));
 ?></textarea><br><br>
 ';
 								break;
@@ -184,16 +180,33 @@ exit;
 								case 'High Level Obfuscation':
 									echo '<textarea rows="9" cols="85">
 <?php
-$UeXploiT = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUHHMM8iLN64IyMnPDEkN0kQ\x431g\x41\x3d";
-$An0n_3xPloiTeR = "'.$high_level_8.'";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
-exit;
+$stt1 = "Sy1LzNFQsrdT0isuKYovyi8xNNZIr8rMS8tJLEkFskrzkvNz\x434pSi4upI5yUWJxqZhKfkpq\x63n5Kq\x41\x62SzKLVMQ6W4pMR\x41EwlY\x41w\x41\x3d";
+$stt0 = "'.$high_level_8.'";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($stt1))));
 ?></textarea><br><br>
 ';
 								break;
 							} 
 						}
 					}
+
+// $small      = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUHHMM8iLN64IyMnPDEkN0kQ\x431g\x41\x3d";
+// $converted  = htmlspecialchars_decode(gzinflate(base64_decode($small)));
+
+// $replaced   = str_replace('$An0n_3xPloiTeR', '$stt0', $converted);
+// $reconv     = base64_encode(gzdeflate($replaced));
+
+// $high_level_1 = str_replace('a', '\x61', $reconv);
+// $high_level_2 = str_replace('A', '\x41', $high_level_1);
+// $high_level_3 = str_replace('b', '\x62', $high_level_2);
+// $high_level_4 = str_replace('B', '\x42', $high_level_3);
+// $high_level_5 = str_replace('c', '\x63', $high_level_4);
+// $high_level_6 = str_replace('C', '\x43', $high_level_5);
+// $high_level_7 = str_replace('=', '\x3d', $high_level_6);
+// $high_level_8 = str_replace('+', '\x2b', $high_level_7);
+
+// echo $high_level_8;
+
 				?>
 			</form>
 		</div>
